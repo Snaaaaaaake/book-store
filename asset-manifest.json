@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/book-store/static/js/main.c9eea748.chunk.js",
-    "main.js.map": "/book-store/static/js/main.c9eea748.chunk.js.map",
+    "main.js": "/book-store/static/js/main.1c77c8a6.chunk.js",
+    "main.js.map": "/book-store/static/js/main.1c77c8a6.chunk.js.map",
     "runtime-main.js": "/book-store/static/js/runtime-main.740a2d2a.js",
     "runtime-main.js.map": "/book-store/static/js/runtime-main.740a2d2a.js.map",
-    "static/js/2.544f5caa.chunk.js": "/book-store/static/js/2.544f5caa.chunk.js",
-    "static/js/2.544f5caa.chunk.js.map": "/book-store/static/js/2.544f5caa.chunk.js.map",
+    "static/js/2.a9028779.chunk.js": "/book-store/static/js/2.a9028779.chunk.js",
+    "static/js/2.a9028779.chunk.js.map": "/book-store/static/js/2.a9028779.chunk.js.map",
     "index.html": "/book-store/index.html",
-    "precache-manifest.4ecfb0a50969ae554647908524d32e77.js": "/book-store/precache-manifest.4ecfb0a50969ae554647908524d32e77.js",
+    "precache-manifest.4769847f734da08535e71d94ca8f45b0.js": "/book-store/precache-manifest.4769847f734da08535e71d94ca8f45b0.js",
     "service-worker.js": "/book-store/service-worker.js",
-    "static/js/2.544f5caa.chunk.js.LICENSE.txt": "/book-store/static/js/2.544f5caa.chunk.js.LICENSE.txt"
+    "static/js/2.a9028779.chunk.js.LICENSE.txt": "/book-store/static/js/2.a9028779.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.740a2d2a.js",
-    "static/js/2.544f5caa.chunk.js",
-    "static/js/main.c9eea748.chunk.js"
+    "static/js/2.a9028779.chunk.js",
+    "static/js/main.1c77c8a6.chunk.js"
   ]
 }
