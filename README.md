@@ -15,3 +15,5 @@
 - npm run start - запускает проект в dev режиме
 - npm run build - создаёт рабочую версию проекта
 - npm run deploy - деплоит проект
+
+GH-Pages: https://snaaaaaaake.github.io/book-store/

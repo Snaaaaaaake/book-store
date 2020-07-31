@@ -15,7 +15,7 @@ ReactDOM.render(
   <StoreProvider store={store}>
     <ErrorBoundary>
       <ServiceProvider value={bookService}>
-        <BrowserRouter basename="/store">
+        <BrowserRouter basename="/book-store">
           <App />
         </BrowserRouter>
       </ServiceProvider>
