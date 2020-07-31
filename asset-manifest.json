@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/book-store/static/js/main.0b92aef8.chunk.js",
-    "main.js.map": "/book-store/static/js/main.0b92aef8.chunk.js.map",
+    "main.js": "/book-store/static/js/main.30e1fd94.chunk.js",
+    "main.js.map": "/book-store/static/js/main.30e1fd94.chunk.js.map",
     "runtime-main.js": "/book-store/static/js/runtime-main.740a2d2a.js",
     "runtime-main.js.map": "/book-store/static/js/runtime-main.740a2d2a.js.map",
     "static/js/2.544f5caa.chunk.js": "/book-store/static/js/2.544f5caa.chunk.js",
     "static/js/2.544f5caa.chunk.js.map": "/book-store/static/js/2.544f5caa.chunk.js.map",
     "index.html": "/book-store/index.html",
-    "precache-manifest.8d69e4c16943f7402e924072dab66890.js": "/book-store/precache-manifest.8d69e4c16943f7402e924072dab66890.js",
+    "precache-manifest.25878ad54034f88e9795e855136d1354.js": "/book-store/precache-manifest.25878ad54034f88e9795e855136d1354.js",
     "service-worker.js": "/book-store/service-worker.js",
     "static/js/2.544f5caa.chunk.js.LICENSE.txt": "/book-store/static/js/2.544f5caa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.740a2d2a.js",
     "static/js/2.544f5caa.chunk.js",
-    "static/js/main.0b92aef8.chunk.js"
+    "static/js/main.30e1fd94.chunk.js"
   ]
 }
