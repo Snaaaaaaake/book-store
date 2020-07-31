@@ -6,7 +6,7 @@ export default class CookieMethods {
     getCookieValue() {
         const regexp = new RegExp(`(${this.cookieName}=)([\\d,]*)(;|$)`);
         const cookieRawValue = document.cookie.match(regexp);
-        return cookieRawValue[2].length > 0 ? cookieRawValue[2].split(',') : [];
+        return cookieRawValue && cookieRawValue[2].length > 0 ? cookieRawValue[2].split(',') : [];
     }
 
     _setCookie(valueArray) {

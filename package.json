@@ -1,6 +1,6 @@
 {
   "name": "book-store",
-  "homepage": "https://snaaaaaaake.github.io/book-store/"
+  "homepage": "https://snaaaaaaake.github.io/book-store/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,7 +21,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-	"deploy": "gh-pages -d build"
+	"deploy": "npm run build && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
